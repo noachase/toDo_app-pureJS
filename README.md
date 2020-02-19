@@ -1,2 +1,2 @@
 ﻿# toDo_app-pureJS
- # to add todo him Enter
+ # to add todo hit Enter
